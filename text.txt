@@ -1,8 +1,6 @@
 some new text
 new new new
 new message
-new text for me
 new text
-message 0
 message X
 new commit for nothing
