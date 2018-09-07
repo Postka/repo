@@ -5,3 +5,4 @@ new text for me
 new text
 message 0
 message X
+new commit for nothing
