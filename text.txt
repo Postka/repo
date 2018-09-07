@@ -2,5 +2,4 @@ some new text
 new new new
 new message
 new text
-message X
 new commit for nothing
