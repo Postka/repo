@@ -6,3 +6,4 @@ new commit for nothing
 1111
 2222
 3333
+merge
