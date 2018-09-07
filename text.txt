@@ -3,3 +3,4 @@ new new new
 new message
 new text for me
 new text
+message 0
